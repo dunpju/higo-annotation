@@ -1,5 +1,5 @@
-module github.com/dengpju/higo-annotation
+module github.com/dunpju/higo-annotation
 
 go 1.14
 
-require github.com/dengpju/higo-config v1.0.6
+require github.com/dunpju/higo-config v1.0.1

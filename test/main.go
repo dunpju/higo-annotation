@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dengpju/higo-annotation/anno"
+	"github.com/dunpju/higo-annotation/anno"
 	"reflect"
 )
 

@@ -1,7 +1,7 @@
 package anno
 
 import (
-	"github.com/dengpju/higo-config/config"
+	"github.com/dunpju/higo-config/config"
 	"sync"
 )
 
